@@ -3200,7 +3200,8 @@ const quizData = {
       },
       {
         // 6
-        question: "Identify the instrument shown in the given image.<br><img src='images/s6.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        question:
+          "Identify the instrument shown in the given image.<br><img src='images/s6.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Veress needle",
           "Sprotte needle",
@@ -3735,9 +3736,9 @@ const quizData = {
           "Abdominoperineal resection",
           "Chemotherapy",
           "Chemoradiation",
-          "Radiotherapy"
+          "Radiotherapy",
         ],
-        answer: 2 // Correct answer: Chemoradiation
+        answer: 2, // Correct answer: Chemoradiation
       },
       {
         // 54
@@ -3747,21 +3748,16 @@ const quizData = {
           "Medial nasal process and maxillary process",
           "Lateral nasal process and maxillary process",
           "Maxillary process and mandible",
-          "Palatine process"
+          "Palatine process",
         ],
-        answer: 0 // Correct answer: Medial nasal process and maxillary process
+        answer: 0, // Correct answer: Medial nasal process and maxillary process
       },
       {
         // 55
         question:
           "A diabetic patient developed DVT along with necrolytic erythema migrans. What is the most likely cause?",
-        options: [
-          "Glucagonoma",
-          "Gastrinoma",
-          "Insulinoma",
-          "Somatostatinoma"
-        ],
-        answer: 0 // Correct answer: Glucagonoma
+        options: ["Glucagonoma", "Gastrinoma", "Insulinoma", "Somatostatinoma"],
+        answer: 0, // Correct answer: Glucagonoma
       },
       {
         // 56
@@ -3770,9 +3766,9 @@ const quizData = {
           "Decreased substance P in LES",
           "Decreased Ach receptors in LES",
           "Decreased NO in LES",
-          "Absent Meissner's plexus in esophagus"
+          "Absent Meissner's plexus in esophagus",
         ],
-        answer: 2 // Correct answer: Decreased NO in LES
+        answer: 2, // Correct answer: Decreased NO in LES
       },
       {
         // 57
@@ -3782,9 +3778,9 @@ const quizData = {
           "Lymphatic spread",
           "Early lung metastasis",
           "Treatment is chemotherapy followed by surgery",
-          "Most common intra-abdominal malignancy in children"
+          "Most common intra-abdominal malignancy in children",
         ],
-        answer: 1 // Correct answer: Early lung metastasis
+        answer: 1, // Correct answer: Early lung metastasis
       },
       {
         // 58
@@ -3793,9 +3789,9 @@ const quizData = {
           "Presents with nonbilious vomiting",
           "USG is 100% sensitive to detect IHPS",
           "Caused by hypertrophy of inner longitudinal muscles",
-          "Occurs in first born male"
+          "Occurs in first born male",
         ],
-        answer: 2 // Correct answer: Caused by hypertrophy of inner longitudinal muscles
+        answer: 2, // Correct answer: Caused by hypertrophy of inner longitudinal muscles
       },
       {
         // 59
@@ -3804,9 +3800,9 @@ const quizData = {
           "EDH: Pinpoint pupil",
           "Penetrating injury to eustachian tube: CSF otorrhea",
           "Liver injury: Kehr's sign",
-          "Mastoid bruising: Skull base fracture"
+          "Mastoid bruising: Skull base fracture",
         ],
-        answer: 3 // Correct answer: Mastoid bruising: Skull base fracture
+        answer: 3, // Correct answer: Mastoid bruising: Skull base fracture
       },
       {
         // 60
@@ -3815,20 +3811,21 @@ const quizData = {
           "Breast engorgement",
           "Cracked nipple",
           "Failure of lactation",
-          "Massage"
+          "Massage",
         ],
-        answer: 1 // Correct answer: Cracked nipple
+        answer: 1, // Correct answer: Cracked nipple
       },
       {
         // 61
-        question: "Which nerve is damaged in this presentation?<br><img src='images/s61.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        question:
+          "Which nerve is damaged in this presentation?<br><img src='images/s61.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Radial nerve",
           "Ulnar nerve",
           "Median nerve",
-          "Axillary nerve"
+          "Axillary nerve",
         ],
-        answer: 0 // Correct answer: Radial nerve (based on common presentations)
+        answer: 0, // Correct answer: Radial nerve (based on common presentations)
       },
       {
         // 62
@@ -3838,9 +3835,9 @@ const quizData = {
           "Esophageal varices",
           "Mallory Weiss tear",
           "Boerhaave syndrome",
-          "Peptic ulcer disease"
+          "Peptic ulcer disease",
         ],
-        answer: 0 // Correct answer: Esophageal varices
+        answer: 0, // Correct answer: Esophageal varices
       },
       {
         // 63
@@ -3850,20 +3847,21 @@ const quizData = {
           "Barium swallow",
           "Barium meal",
           "Barium meal follow through",
-          "CECT of abdomen"
+          "CECT of abdomen",
         ],
-        answer: 3 // Correct answer: CECT of abdomen
+        answer: 3, // Correct answer: CECT of abdomen
       },
       {
         // 64
-        question: "Identify the pathology in the newborn baby as shown in the image:<br><img src='images/s64.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        question:
+          "Identify the pathology in the newborn baby as shown in the image:<br><img src='images/s64.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Meningocele",
           "Congenital megacolon",
           "Imperforate anus",
-          "Pyloric stenosis"
+          "Pyloric stenosis",
         ],
-        answer: 2 // Correct answer: Imperforate anus
+        answer: 2, // Correct answer: Imperforate anus
       },
       {
         // 65
@@ -3872,9 +3870,9 @@ const quizData = {
           "24-hour ambulatory pH monitoring",
           "Upper GI endoscopy",
           "CECT",
-          "MRI"
+          "MRI",
         ],
-        answer: 0 // Correct answer: 24-hour ambulatory pH monitoring
+        answer: 0, // Correct answer: 24-hour ambulatory pH monitoring
       },
       {
         // 66
@@ -3884,64 +3882,69 @@ const quizData = {
           "Reflux gastritis",
           "Dumping syndrome",
           "Post vagotomy diarrhea",
-          "Frey's syndrome"
+          "Frey's syndrome",
         ],
-        answer: 1 // Correct answer: Dumping syndrome
+        answer: 1, // Correct answer: Dumping syndrome
       },
       {
         // 67
-        question: "Identify the pathology in the image given:<br><img src='images/s67.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        question:
+          "Identify the pathology in the image given:<br><img src='images/s67.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Acute pancreatitis",
           "Liver abscess",
           "Acute cholecystitis",
-          "Hollow viscus perforation"
+          "Hollow viscus perforation",
         ],
-        answer: 3 // Correct answer: Hollow viscus perforation
+        answer: 3, // Correct answer: Hollow viscus perforation
       },
       {
         // 68
-        question: "This is the specimen removed from the stomach of a young female patient. You should now send this patient for which consult?<br><img src='images/s68.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        question:
+          "This is the specimen removed from the stomach of a young female patient. You should now send this patient for which consult?<br><img src='images/s68.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Pediatrician",
           "Psychiatrist",
           "Cardiologist",
-          "Dermatologist"
+          "Dermatologist",
         ],
-        answer: 1 // Correct answer: Psychiatrist
+        answer: 1, // Correct answer: Psychiatrist
       },
       {
         // 69
-        question: "A 35-year-old female presented to emergency with upper abdominal pain radiating to back. On X-ray, colon cut-off sign was seen. What is the diagnosis?",
+        question:
+          "A 35-year-old female presented to emergency with upper abdominal pain radiating to back. On X-ray, colon cut-off sign was seen. What is the diagnosis?",
         options: [
           "Acute pancreatitis",
           "Acute appendicitis",
           "Chronic pancreatitis",
-          "Acute cholecystitis"
+          "Acute cholecystitis",
         ],
-        answer: 0 // Correct answer: Acute pancreatitis
+        answer: 0, // Correct answer: Acute pancreatitis
       },
       {
         // 70
-        question: "A patient presented with symptoms of dysphagia, retrosternal pain, and regurgitation of food items eaten the day before. What is the diagnosis?",
+        question:
+          "A patient presented with symptoms of dysphagia, retrosternal pain, and regurgitation of food items eaten the day before. What is the diagnosis?",
         options: [
           "Patterson Kelly syndrome",
           "Achalasia cardia",
           "Esophageal diverticula",
-          "Reflux esophagitis"
+          "Reflux esophagitis",
         ],
-        answer: 2 // Correct answer: Achalasia cardia
+        answer: 2, // Correct answer: Achalasia cardia
       },
       {
         // 71
-        question: "A 50-year-old female who had total gastrectomy 10 years ago, presented with neurological symptoms. Which type of anemia is most likely to be seen in this patient?",
+        question:
+          "A 50-year-old female who had total gastrectomy 10 years ago, presented with neurological symptoms. Which type of anemia is most likely to be seen in this patient?",
         options: [
           "Iron deficiency anemia",
           "Megaloblastic anemia",
           "Aplastic anemia",
-          "Hemolytic anemia"
+          "Hemolytic anemia",
         ],
-        answer: 1 // Correct answer: Megaloblastic anemia
+        answer: 1, // Correct answer: Megaloblastic anemia
       },
       {
         // 72
@@ -4278,7 +4281,8 @@ const quizData = {
         answer: 0, // Correct answer: Kocher's incision
       },
     ],
-    "Set-3": [//question -compleated
+    "Set-3": [
+      //question -compleated
       {
         // 101
         question:
@@ -4305,23 +4309,25 @@ const quizData = {
       },
       {
         // 103
-        question: "A child of 6 months was presented with the following presentation. What is the management protocol?<br><img src='images/s103.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        question:
+          "A child of 6 months was presented with the following presentation. What is the management protocol?<br><img src='images/s103.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Surgery if persistence beyond 2 years of age even if asymptomatic",
           "Surgery if persistence beyond 5 years of age only if symptomatic",
           "Immediate surgery",
-          "Hernioplasty"
+          "Hernioplasty",
         ],
         answer: 0, // Correct answer: Surgery if persistence beyond 2 years of age even if asymptomatic
       },
       {
         // 104
-        question: "A 28-year-old alcoholic patient walks to the hospital with complaints of multiple episodes of vomiting and chest pain after binge drinking. On per abdomen examination, release sign is noted. X-ray abdomen in standing position shows pneumoperitoneum. The most probable reason for this presentation is:",
+        question:
+          "A 28-year-old alcoholic patient walks to the hospital with complaints of multiple episodes of vomiting and chest pain after binge drinking. On per abdomen examination, release sign is noted. X-ray abdomen in standing position shows pneumoperitoneum. The most probable reason for this presentation is:",
         options: [
           "Boerrhave syndrome",
           "Tension pneumothorax",
           "PUD perforation",
-          "Mallory Weiss tear"
+          "Mallory Weiss tear",
         ],
         answer: 2, // Correct answer: PUD perforation
       },
@@ -4332,62 +4338,62 @@ const quizData = {
           "Charcot's triad",
           "Saint's triad",
           "Virchow triad",
-          "Murphy's triad"
+          "Murphy's triad",
         ],
         answer: 0, // Correct answer: Charcot's triad
       },
       {
         // 106
-        question: "A 32-year-old man presented with fever and pain in upper right hypochondrium after food intake. Investigation of choice:",
-        options: [
-          "CECT",
-          "Ultrasound",
-          "MRI",
-          "HRCT"
-        ],
+        question:
+          "A 32-year-old man presented with fever and pain in upper right hypochondrium after food intake. Investigation of choice:",
+        options: ["CECT", "Ultrasound", "MRI", "HRCT"],
         answer: 1, // Correct answer: Ultrasound
       },
       {
         // 107
-        question: "All of the following are true about Crohn's disease; EXCEPT:",
+        question:
+          "All of the following are true about Crohn's disease; EXCEPT:",
         options: [
           "Recurrence is more common",
           "Rectum is involved",
           "Serpiginous ulcers are formed",
-          "Transmural involvement"
+          "Transmural involvement",
         ],
         answer: 1, // Correct answer: Rectum is involved
       },
       {
         // 108
-        question: "A 7-day-old infant presents with bilious vomiting and gross abdominal distention with absent bowel sounds. X-ray abdomen shows multiple gas-filled loops. Diagnosis is:",
+        question:
+          "A 7-day-old infant presents with bilious vomiting and gross abdominal distention with absent bowel sounds. X-ray abdomen shows multiple gas-filled loops. Diagnosis is:",
         options: [
           "Hirschsprung disease",
           "Congenital Hypertrophic pyloric stenosis",
           "Duodenal atresia",
-          "Malrotation of gut"
+          "Malrotation of gut",
         ],
         answer: 3, // Correct answer: Malrotation of gut
       },
       {
         // 109
-        question: "Meconium ileus is a presentation seen in which of the following diseases?",
+        question:
+          "Meconium ileus is a presentation seen in which of the following diseases?",
         options: [
           "Mucoviscidosis",
           "Hirschsprung disease",
           "Ileal atresia",
-          "Congenital aganglionosis"
+          "Congenital aganglionosis",
         ],
         answer: 0, // Correct answer: Mucoviscidosis
       },
       {
         // 110
-        question: "Which is the first investigation to be done in case of a neonate presenting with frothiness in mouth and dyspnea?",
+        question:
+          "Which is the first investigation to be done in case of a neonate presenting with frothiness in mouth and dyspnea?",
         options: [
           "Bronchoscopy with injection of methylene blue",
           "NG Tube insertion and CXR to check position of tube",
           "CT chest",
-          "Endoscopy"
+          "Endoscopy",
         ],
         answer: 1, // Correct answer: NG Tube insertion and CXR to check position of tube
       },
@@ -4398,7 +4404,7 @@ const quizData = {
           "Splenic laceration",
           "Splenic contusion",
           "Gut ischemia",
-          "Mesenteric adenitis"
+          "Mesenteric adenitis",
         ],
         answer: 2, // Correct answer: Splenic laceration
       },
@@ -4409,7 +4415,7 @@ const quizData = {
           "Below Superior constrictor",
           "Below Inferior constrictor",
           "Below cricopharyngeal muscle",
-          "Below upper 1/3rd of smooth muscle of oesophagus"
+          "Below upper 1/3rd of smooth muscle of oesophagus",
         ],
         answer: 0, // Correct answer: Below Superior constrictor
       },
@@ -4420,19 +4426,14 @@ const quizData = {
           "Hemorrhage",
           "Fistula",
           "Bleeding from gastric mucosa",
-          "Pancreatitis"
+          "Pancreatitis",
         ],
         answer: 0, // Correct answer: Hemorrhage
       },
       {
         // 114
         question: "Best treatment strategy for Anal cancer:",
-        options: [
-          "Chemoradiation",
-          "Surgery",
-          "Radiation",
-          "Chemotherapy"
-        ],
+        options: ["Chemoradiation", "Surgery", "Radiation", "Chemotherapy"],
         answer: 0, // Correct answer: Chemoradiation
       },
       {
@@ -4442,40 +4443,37 @@ const quizData = {
           "No occurrence after surgery",
           "Aphthous ulcer",
           "Skip lesions",
-          "Fistula formation"
+          "Fistula formation",
         ],
         answer: 0, // Correct answer: No occurrence after surgery
       },
       {
         // 116
         question: "Which of the following is not done in Carcinoma oesophagus?",
-        options: [
-          "Biopsy",
-          "pH-metry",
-          "CT chest",
-          "PET scan"
-        ],
+        options: ["Biopsy", "pH-metry", "CT chest", "PET scan"],
         answer: 1, // Correct answer: pH-metry
       },
       {
         // 117
-        question: "A 30-year-old man presents with a four days history of right iliac fossa pain. USG image is shown below. Which is the best management algorithm?<br><img src='images/s117.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        question:
+          "A 30-year-old man presents with a four days history of right iliac fossa pain. USG image is shown below. Which is the best management algorithm?<br><img src='images/s117.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Ochsner-Sherren regimen",
           "Urgent appendectomy",
           "Extraperitoneal drainage and parenteral antibiotics",
-          "Percutaneous drainage and parenteral antibiotics"
+          "Percutaneous drainage and parenteral antibiotics",
         ],
         answer: 0, // Correct answer: Urgent appendectomy
       },
       {
         // 118
-        question: "Comment on the diagnosis of a film shown of a 65-year-old man with acute abdomen.<br><img src='images/s118.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        question:
+          "Comment on the diagnosis of a film shown of a 65-year-old man with acute abdomen.<br><img src='images/s118.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Ileocolic intussusception",
           "Sigmoid volvulus",
           "Toxic megacolon",
-          "Colocolic intussusception"
+          "Colocolic intussusception",
         ],
         answer: 3, // Correct answer: Sigmoid volvulus
       },
@@ -4486,41 +4484,34 @@ const quizData = {
           "Toxic megacolon",
           "Colonic perforation",
           "Colonic obstruction",
-          "Refractory fistula"
+          "Refractory fistula",
         ],
         answer: 3, // Correct answer: Colonic obstruction
       },
       {
         // 120
-        question: "Which is the most common site of carcinoma of the esophagus?",
-        options: [
-          "Lower 1/3rd",
-          "Middle 1/3rd",
-          "Upper 1/3rd",
-          "GE junction"
-        ],
+        question:
+          "Which is the most common site of carcinoma of the esophagus?",
+        options: ["Lower 1/3rd", "Middle 1/3rd", "Upper 1/3rd", "GE junction"],
         answer: 1, // Correct answer: Lower 1/3rd
       },
       {
         // 121
-        question: "A 9-month-old child presents with excessive cry, right iliac fossa sausage lump and blood in stools. What is the best treatment?",
+        question:
+          "A 9-month-old child presents with excessive cry, right iliac fossa sausage lump and blood in stools. What is the best treatment?",
         options: [
           "IVF-antibiotic-NG tube",
           "IVF-antibiotic-air enema",
           "IVF-antibiotics-barium enema",
-          "IVF-antibiotics-warm saline enema"
+          "IVF-antibiotics-warm saline enema",
         ],
         answer: 1, // Correct answer: IVF-antibiotic-air enema
       },
       {
         // 122
-        question: "Metastatic liver disease is found in____% of patients undergoing surgery for primary colorectal cancer?",
-        options: [
-          "10%",
-          "15%",
-          "33%",
-          "75%"
-        ],
+        question:
+          "Metastatic liver disease is found in____% of patients undergoing surgery for primary colorectal cancer?",
+        options: ["10%", "15%", "33%", "75%"],
         answer: 2, // Correct answer: 33%
       },
       {
@@ -4530,29 +4521,26 @@ const quizData = {
           "Postvagotomy",
           "Regular use of PPI",
           "Resection of small intestine",
-          "Atrophic gastritis"
+          "Atrophic gastritis",
         ],
         answer: 1, // Correct answer: Regular use of PPI
       },
       {
         // 124
-        question: "What prefix symbol is used to describe the administration of neo-adjuvant treatment given in colorectal cancer?",
-        options: [
-          "h",
-          "p",
-          "y",
-          "z"
-        ],
+        question:
+          "What prefix symbol is used to describe the administration of neo-adjuvant treatment given in colorectal cancer?",
+        options: ["h", "p", "y", "z"],
         answer: 2, // Correct answer: y
       },
       {
         // 125
-        question: "A 20-year-old patient presents with RIF pain and fever. USG is shown in image. Diagnosis is:<br><img src='images/s125.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        question:
+          "A 20-year-old patient presents with RIF pain and fever. USG is shown in image. Diagnosis is:<br><img src='images/s125.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Acute appendicitis",
           "Intussusception",
           "Volvulus",
-          "Intestinal obstruction"
+          "Intestinal obstruction",
         ],
         answer: 0, // Correct answer: Acute appendicitis
       },
@@ -4563,7 +4551,7 @@ const quizData = {
           "Hypochloremic metabolic alkalosis",
           "Hyperchloremic metabolic acidosis",
           "Hypernatremic metabolic alkalosis",
-          "Hyponatremic metabolic acidosis"
+          "Hyponatremic metabolic acidosis",
         ],
         answer: 0, // Correct answer: Hypochloremic metabolic alkalosis
       },
@@ -4574,29 +4562,31 @@ const quizData = {
           "Aberrant blood vessel",
           "Esophageal diverticulum",
           "Duodenal obstruction",
-          "Gastric outlet obstruction"
+          "Gastric outlet obstruction",
         ],
         answer: 0, // Correct answer: Aberrant blood vessel
       },
       {
         // 128
-        question: "Which is the most common site of origin of peritoneal deposits?",
+        question:
+          "Which is the most common site of origin of peritoneal deposits?",
         options: [
           "Stomach cancer",
           "Colorectal cancer",
           "Pancreatic cancer",
-          "Ovarian cancer"
+          "Ovarian cancer",
         ],
         answer: 3, // Correct answer: Colorectal cancer
       },
       {
         // 129
-        question: "What does the arrow in the given CT abdomen show?<br><img src='images/s129.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        question:
+          "What does the arrow in the given CT abdomen show?<br><img src='images/s129.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Left adrenal gland",
           "Pancreas",
           "Lesser omentum",
-          "Epiploic foramen"
+          "Epiploic foramen",
         ],
         answer: 1, // Correct answer: Left adrenal gland
       },
@@ -4607,73 +4597,63 @@ const quizData = {
           "Retinoblastoma",
           "Neuroblastoma",
           "Desmoid tumor",
-          "Dermoid cyst"
+          "Dermoid cyst",
         ],
         answer: 2, // Correct answer: Desmoid tumor
       },
       {
         // 131
         question: "Hypertrophic pyloric stenosis presents at:",
-        options: [
-          "3 day",
-          "3 weeks",
-          "3 month",
-          "3 years"
-        ],
+        options: ["3 day", "3 weeks", "3 month", "3 years"],
         answer: 1, // Correct answer: 3 weeks
       },
       {
         // 132
-        question: "A 40-year-old chronic alcoholic presents with distended abdomen, hematemesis and fresh blood in stool. On examination, huge ascites and distended veins over abdominal wall are noted. Most likely cause of hematemesis is:",
+        question:
+          "A 40-year-old chronic alcoholic presents with distended abdomen, hematemesis and fresh blood in stool. On examination, huge ascites and distended veins over abdominal wall are noted. Most likely cause of hematemesis is:",
         options: [
           "Esophagitis",
           "Esophageal varices",
           "Esophageal cancer",
-          "Erosion of gastroduodenal artery"
+          "Erosion of gastroduodenal artery",
         ],
         answer: 1, // Correct answer: Esophageal varices
       },
       {
         // 133
-        question: "A 30-year-old known alcoholic presents to the emergency with massive Upper GIT bleeding. On examination pulse = 110/min and BP = 80/60. First step to be taken is:",
+        question:
+          "A 30-year-old known alcoholic presents to the emergency with massive Upper GIT bleeding. On examination pulse = 110/min and BP = 80/60. First step to be taken is:",
         options: [
           "Cold saline lavage",
           "Immediate BT",
           "Transfer for urgent sclerotherapy",
-          "Large bore cannula for IVF"
+          "Large bore cannula for IVF",
         ],
         answer: 3, // Correct answer: Large bore cannula for IVF
       },
       {
         // 134
         question: "Which is the rarest position of appendix?",
-        options: [
-          "Retro-caecal",
-          "Post-ileal",
-          "Pre-ileal"
-        ],
+        options: ["Retro-caecal", "Post-ileal", "Pre-ileal", "Para-caecal"],
         answer: 1, // Correct answer: Post-ileal
       },
       {
         // 135
-        question: "Which is the best way to diagnose lower small intestine obstruction?",
+        question:
+          "Which is the best way to diagnose lower small intestine obstruction?",
         options: [
           "Pain abdomen",
           "Multiple air fluid levels",
           "Profuse bilious vomiting",
-          "Feculent vomiting"
+          "Feculent vomiting",
         ],
         answer: 1, // Correct answer: Feculent vomiting
       },
       {
         // 136
-        question: "What is the location of first constriction of esophagus from the incisor tooth?",
-        options: [
-          "15 cm",
-          "18 cm",
-          "25 cm",
-          "40 cm"
-        ],
+        question:
+          "What is the location of first constriction of esophagus from the incisor tooth?",
+        options: ["15 cm", "18 cm", "25 cm", "40 cm"],
         answer: 0, // Correct answer: 18 cm
       },
       {
@@ -4683,7 +4663,7 @@ const quizData = {
           "Enteroscopy",
           "Barium swallow",
           "Barium enema",
-          "Barium meal follow through"
+          "Barium meal follow through",
         ],
         answer: 1, // Correct answer: Barium swallow
       },
@@ -4694,7 +4674,7 @@ const quizData = {
           "Regurgitation of previous day food",
           "Halitosis",
           "Located at Killian's triangle",
-          "Metabolic alkalosis"
+          "Metabolic alkalosis",
         ],
         answer: 3, // Correct answer: Metabolic alkalosis
       },
@@ -4705,7 +4685,7 @@ const quizData = {
           "Halitosis",
           "Regurgitation of previous day's food",
           "Dysphagia (liquids > solids)",
-          "Corkscrew esophagus"
+          "Corkscrew esophagus",
         ],
         answer: 3, // Correct answer: Corkscrew esophagus
       },
@@ -4716,7 +4696,7 @@ const quizData = {
           "Increased lower esophagus sphincter tone",
           "Normal peristalsis",
           "Dilatation proximally",
-          "Malignancy"
+          "Malignancy",
         ],
         answer: 1, // Correct answer: Normal peristalsis
       },
@@ -4727,7 +4707,7 @@ const quizData = {
           "Achalasia cardia",
           "Zenker diverticulum",
           "Barrett's esophagus",
-          "Diffuse esophageal spasm"
+          "Diffuse esophageal spasm",
         ],
         answer: 0, // Correct answer: Achalasia cardia
       },
@@ -4738,7 +4718,7 @@ const quizData = {
           "Vasoactive intestinal peptide",
           "Nitrous oxide",
           "Acetylcholine",
-          "Pancreatic polypeptide"
+          "Pancreatic polypeptide",
         ],
         answer: 2, // Correct answer: Acetylcholine
       },
@@ -4749,7 +4729,7 @@ const quizData = {
           "Chagas disease",
           "Scleroderma",
           "Tumor infiltration",
-          "Diffuse esophageal spasm"
+          "Diffuse esophageal spasm",
         ],
         answer: 2, // Correct answer: Tumor infiltration
       },
@@ -4760,7 +4740,7 @@ const quizData = {
           "Gastric metaplasia",
           "Goblet cells intestinal metaplasia",
           "Esophageal metaplasia",
-          "Intestinal dysplasia"
+          "Intestinal dysplasia",
         ],
         answer: 1, // Correct answer: Goblet cells intestinal metaplasia
       },
@@ -4771,7 +4751,7 @@ const quizData = {
           "Barrett's esophagus",
           "Boerhaave syndrome",
           "Mallory Weiss tear",
-          "Esophageal varices"
+          "Esophageal varices",
         ],
         answer: 0, // Correct answer: Barrett's esophagus
       },
@@ -4782,18 +4762,19 @@ const quizData = {
           "Ranson score",
           "Gleason score",
           "Alvarado score",
-          "De Meester scoring"
+          "De Meester scoring",
         ],
         answer: 3, // Correct answer: De Meester scoring
       },
       {
         // 147
-        question: "Which is the best investigation for detecting esophageal perforation?",
+        question:
+          "Which is the best investigation for detecting esophageal perforation?",
         options: [
           "CXR",
           "CT chest",
           "Upper G.I. endoscopy",
-          "CT chest with contrast"
+          "CT chest with contrast",
         ],
         answer: 3, // Correct answer: CT chest with contrast
       },
@@ -4804,19 +4785,15 @@ const quizData = {
           "Chest X-ray",
           "Barium study",
           "CT scan",
-          "Endoscopic ultrasound"
+          "Endoscopic ultrasound",
         ],
         answer: 1, // Correct answer: CT scan
       },
       {
         // 149
-        question: "To differentiate malignancy from benign lesion in GIT, what is the investigation of choice?",
-        options: [
-          "USG",
-          "Biopsy",
-          "Endoscopy",
-          "P.E.T scan"
-        ],
+        question:
+          "To differentiate malignancy from benign lesion in GIT, what is the investigation of choice?",
+        options: ["USG", "Biopsy", "Endoscopy", "P.E.T scan"],
         answer: 1, // Correct answer: Biopsy
       },
       {
@@ -4826,12 +4803,10 @@ const quizData = {
           "Aberrant right subclavian artery",
           "Aberrant left subclavian artery",
           "Aberrant internal carotid artery",
-          "Aberrant innominate artery"
+          "Aberrant innominate artery",
         ],
         answer: 0, // Correct answer: Aberrant right subclavian artery
-      }
-      
-                            
+      },
     ],
     "Set-4": [
       //ques-compleated , img
@@ -5714,7 +5689,7 @@ const quizData = {
       {
         // 235
         question:
-          "What is the diagnosis of a 30-year-old woman with breast lump on examination of breast?<br><img src='images/s235.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+          "What is the diagnosis of the mammography report a 30-year-old woman with breast lump felt on self-examination of breast?<br><img src='images/s235.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "a. Fibroadenoma",
           "b. Breast cancer",
@@ -5754,7 +5729,7 @@ const quizData = {
       {
         // 239
         question:
-          "A 25-year-old female presents with a breast lump and green discharge from inverted nipples. What is the differential diagnosis?",
+          "A 25-year-old female presents with a breast lump and green discharge from inverted nipples. What is the first differential diagnosis?",
         options: [
           " Duct ectasia",
           " Mastitis",
@@ -5820,7 +5795,7 @@ const quizData = {
       {
         // 245
         question:
-          "Which is the next investigation to be done for a painful lump in a lactating woman?",
+          "Which is the next investigation to be done for a painful breast lump in a lactating woman?",
         options: [" Mammography", " USG", " MRI", " FNAC"],
         answer: 1, // Correct answer: b. USG
       },
@@ -5931,7 +5906,7 @@ const quizData = {
       {
         //256
         question:
-          "A 65-year-old male presented with weakness, lethargy, excessive cold intolerance and slow ankle reflex. TSH = 16 mU/L (normal: 0.4-4.0 mU/L) and T4 = 0.3 ng/dL (normal: 0.6-1.6 ng/dL) and T3 = 70 pg/dL (normal: 230-619 pg/dL). What would be the most appropriate management?",
+          "A 65-year-old male presented with weakness, lethargy, excessive cold intolerance and slow ankle jerk. On TFT. TSH = 16 mU/L (normal: 0.4-4.0 mU/L) and T4 = 0.3 ng/dL (normal: 0.6-1.6 ng/dL) and T3 = 70 pg/dL (normal: 230-619 pg/dL). What would be the most appropriate management?",
         options: [
           "Start levothyroxine at 100 microgram and decrease the dose gradually",
           "Start levothyroxine at 25 microgram and increase the dose gradually",
@@ -5943,7 +5918,7 @@ const quizData = {
       {
         //257
         question:
-          "A 23-year-old male presented with profuse sweating and headache. What investigation should be done in this case?",
+          "A 23-year-old male presented with high bp along with profuse sweating and headache. What investigation should be done in this case?",
         options: [
           "24 hours urinary metanephrines",
           "24 hours urinary 5-HIAA",
@@ -5955,7 +5930,7 @@ const quizData = {
       {
         // 258
         question:
-          "A patient presented with the presence of a thyroid swelling and weight loss. The physician found presence of cervical adenopathy. Total thyroidectomy with radical neck dissection was performed. Histopathology of the resected specimen is shown below. Which is the most likely diagnosis?<br><img src='images/s258.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+          "A patient presented with the presence of a thyroid swelling and weight loss. The physician found presence of cervical lymphadenopathy. Total thyroidectomy with radical lymph node dissection was performed. Histopathology report of the  resected specimen is shown below. Which is the most likely diagnosis?<br><img src='images/s258.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           " Papillary carcinoma thyroid",
           " Follicular carcinoma thyroid",
@@ -5967,7 +5942,7 @@ const quizData = {
       {
         // 259
         question:
-          "A 35-year-old woman presented with complaints of palpitations and weight loss on examination, sinus tachycardia is present and the following lesion was noticed in the skin of the patient. What is the clinical diagnosis?<br><img src='images/s259.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+          "A 35-year-old woman presented with complains of palpitations and weight loss on examination, sinus tachycardia is present and the following lesion was noticed in the skin of the patient. What is the clinical diagnosis?<br><img src='images/s259.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           " Hypothyroidism",
           " Hyperthyroidism",
@@ -6637,7 +6612,7 @@ const quizData = {
       {
         // 321
         question:
-          "A 14-year-old child is having problems with urination for the last 3 months. You have introduced a contrast dye from the urethra to visualize and understand the problem. Name this investigation most likely?<br><img src='images/s321.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+          "A 1.5-year-old child is having problems with urination for the last 3 months. You have introduced a contrast dye from the urethra to visualize and understand the problem. Name this investigation most likely?<br><img src='images/s321.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Micturating cystourethrogram",
           "Retrograde urethrogram",
@@ -6833,7 +6808,8 @@ const quizData = {
       },
       {
         // 338
-        question: "What is the diagnosis based on the given image of IVP?<br><img src='images/s338.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        question:
+          "What is the diagnosis based on the given image of IVP?<br><img src='images/s338.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Ureterocele",
           "Ectopic ureteric orifice",
@@ -6864,7 +6840,7 @@ const quizData = {
       {
         // 341
         question:
-          "A male infant with urinary retention was found to have bilateral hydronephrosis and a history of recurrent urinary tract infections. What is the most probable diagnosis?",
+          "A male infant with urinary retention was found to have bilateral hydronephrosis . there was a history of recurrent urinary tract infections. What is the most probable diagnosis?",
         options: [
           "PUJ obstruction",
           "Posterior urethral valves",
@@ -6876,7 +6852,7 @@ const quizData = {
       {
         // 342
         question:
-          "A 62-year-old female underwent PCNL for kidney stone and returns with chills and fever after 2 days. What is the most likely complication?",
+          "A 62-year-old female has kidney stone and treated with PCNL. after 2 days she again comes to OPD  with chills and fever. What is the most likely complication?",
         options: [
           "Bacterial sepsis",
           "Acute pancreatitis",
@@ -6895,7 +6871,7 @@ const quizData = {
       {
         // 344
         question:
-          "In kidney transplantation donar organ will be placed at which site ?<br><img src='images/s344.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+          "In kidney transplantation donar organ will be placed at which site ?",
         options: [
           "Left Kidney fossa",
           "Right Iliac fossa",
@@ -6993,7 +6969,8 @@ const quizData = {
       },
       {
         // 353
-        question: "What does the following image show?",
+        question:
+          "What does the following image show?<br><img src='images/s353.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Misplaced Cu-T 380Ag",
           "Fecolith",
@@ -7047,7 +7024,7 @@ const quizData = {
       {
         // 358
         question:
-          "A 50-year-old patient complains of pain and swelling in the right side of the scrotum for two days. He tells that this swelling has been gradually increasing in size with a dragging sensation for 2 years. On examination, there is a large inguinoscrotal irreducible swelling with extreme tenderness and redness. What is the probable diagnosis?<br><img src='images/s353.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+          "A 50-year-old patient complains of pain and swelling in the right side of the scrotum for two days. He tells that this swelling has been gradually increasing in size with a dragging sensation for 2 years. On examination, there is a large inguinoscrotal irreducible swelling with extreme tenderness and redness. What is the probable diagnosis?",
         options: [
           "Right hydrocele",
           "Right strangulated inguinal hernia",
@@ -7198,7 +7175,7 @@ const quizData = {
       {
         // 372
         question:
-          "Which amongst the following is the most common cause of UTP?",
+          "Which amongst the following is the most common cause of U.T.I ?",
         options: [
           "Instrumentation",
           "Urethral diverticulum",
@@ -7318,7 +7295,8 @@ const quizData = {
       },
       {
         // 384
-        question: "Which of the following is correct about the image given<br><img src='images/s384.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        question:
+          "Which of the following is correct about the image given<br><img src='images/s384.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Horse shoe kidney",
           "Undescended left kidney",
@@ -7329,7 +7307,8 @@ const quizData = {
       },
       {
         // 385
-        question: "The given picture shows<br><img src='images/s385.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        question:
+          "The given picture shows<br><img src='images/s385.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Renal cell cancer",
           "Hydronephrosis",
@@ -7340,7 +7319,8 @@ const quizData = {
       },
       {
         // 386
-        question: "What does the given picture show?<br><img src='images/s385.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        question:
+          "What does the given picture show?<br><img src='images/s386.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Foreign body",
           "Bladder stone",
@@ -7351,7 +7331,8 @@ const quizData = {
       },
       {
         // 387
-        question: "What is the probable diagnosis?<br><img src='images/s387.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        question:
+          "What is the probable diagnosis?<br><img src='images/s387.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: ["Chancroid", "Carcinoma penis", "Chancre", "Bowen disease"],
         answer: 1, // Correct answer: Carcinoma penis
       },
@@ -7421,7 +7402,8 @@ const quizData = {
       },
       {
         // 394
-        question: "Which of the following is a type III choledochal cyst?<br><img src='images/s394.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        question:
+          "Which of the following is a type III choledochal cyst?<br><img src='images/s394.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: ["A", "B", "C", "D"],
         answer: 2, // Correct answer: C
       },
@@ -7487,7 +7469,7 @@ const quizData = {
       {
         // 400
         question:
-          "A patient presented with pain in the right hypochondrium. Blood investigations showed Serum bilirubin levels = 5mg% and ALP = 200mg%. What should be the initial investigation in this patient?",
+          "A patient presented with pain in the right hypochondrium Blood investigations showed AST-22 IU/L and ALT-27 IU/L. Serum bilirubin levels = 5mg%, also ALP-200 mg%. What should be the initial investigation in this patient",
         options: [
           "USG abdomen",
           "CECT abdomen",
@@ -7569,7 +7551,8 @@ const quizData = {
       },
       {
         // 408
-        question: "Comment on the image shown below.<br><img src='images/s408.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        question:
+          "Comment on the image shown below.<br><img src='images/s408.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Percutaneous Transhepatic cholangiogram",
           "T tube cholangiogram",
@@ -7603,7 +7586,8 @@ const quizData = {
       },
       {
         // 411
-        question: "A patient comes with RUQ pain. The USG image shows?<br><img src='images/s411.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        question:
+          "A patient comes with RUQ pain. The USG image shows?<br><img src='images/s411.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Cholelithiasis",
           "Cholecystitis",
@@ -7839,7 +7823,7 @@ const quizData = {
         // 433
         question: "Cleft lip results from:",
         options: [
-          "Failure of fusion of maxillary and median",
+          "Failure of fusion of maxillary and median nasal process",
           "Failure of fusion of 2 palatine shelves",
           "Separation of the nasal septum and vomer from the palatine processes",
           "Anteroposterior orientation of muscles responsible for closure of velopharynx",
@@ -7885,7 +7869,7 @@ const quizData = {
       {
         // 437
         question:
-          "A patient presented with neck swelling with purulent discharge, whose image is given below. What is the diagnosis?",
+          "A patient presented with neck swelling with purulent discharge, whose image is given below. What is the diagnosis?<br><img src='images/s437.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Cystic hygroma",
           "Collar stud abscess",
@@ -7930,7 +7914,8 @@ const quizData = {
       },
       {
         // 441
-        question: "Comment on the diagnosis of this 60-year-old man.<br><img src='images/s411.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        question:
+          "Comment on the diagnosis of this 60-year-old man.<br><img src='images/s441.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Basal cell Cancer",
           "Plunging Ranula",
@@ -8041,7 +8026,8 @@ const quizData = {
         answer: 0, // Correct answer: Brain tumor
       },
     ],
-    "Set-10": [//ques-compleated, answer -match
+    "Set-10": [
+      //ques-compleated, answer -match
       {
         // 451
         question: "Which of the following tumors is cured by radiation?",
@@ -8095,7 +8081,8 @@ const quizData = {
       },
       {
         // 456
-        question: "What is your diagnosis?<br><img src='images/s456.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        question:
+          "What is your diagnosis?<br><img src='images/s456.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Cleft lip",
           "Cleft palate",
@@ -8191,7 +8178,8 @@ const quizData = {
       },
       {
         // 465
-        question: "What is the origin of ulcer, given in the image?<br><img src='images/s465.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        question:
+          "What is the origin of ulcer, given in the image?<br><img src='images/s465.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Venous ulcer",
           "Arterial ulcer",
@@ -8519,9 +8507,6 @@ const quizData = {
         answer: 3, // Correct answer: 20 mm Hg
       },
 
-      
-      
-
       {
         //495
         question:
@@ -8550,7 +8535,7 @@ const quizData = {
       //497
       {
         question:
-          "A trauma patient was brought to the emergency. There was raised JVP, cold clammy skin, heart sounds were not audible clearly, and neck veins were engorged. The patient died in the hospital, and autopsy showed the following image. What is the most likely cause of death in this patient?<br><img src='images/s497.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+          "A trauma patient was brought to the emergency. There was raised JVP, cold clammy skin, heart sounds were not audible clearly and neck veins were engorged. Patient died in the hospital and autopsy was done, which showed the following image. What is the most likely cause of death in this patient?<br><img src='images/s497.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Cardiac tamponade",
           "Fat necrosis",
@@ -8592,7 +8577,8 @@ const quizData = {
         answer: 1, // Correct answer: Pleural effusion
       },
     ],
-    "Set-11": [//ques-compleated, answer -matched
+    "Set-11": [
+      //ques-compleated, answer -matched
       // 501
       {
         question: "Radioisotope used in thyroid cancer treatment:",
@@ -8608,7 +8594,7 @@ const quizData = {
       // 503
       {
         question:
-          "A patient with injury to the right side of the chest presented to the emergency. The chest X-ray is given below. What is the preferred treatment option?<br><img src='images/s503.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+          "A patient with injury to the right side of the chest presented to the emergency. The patients chest X-ray is given below. What is the preferred treatment option?<br><img src='images/s503.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Chest tube insertion on left side",
           "Conservative management",
@@ -8620,7 +8606,7 @@ const quizData = {
       // 504
       {
         question:
-          "The patient developed this lesion over the chest after 6 months of surgery. What is the diagnosis?",
+          "The patient developed this lesion over the chest after 6 months of surgery. What is the diagnosis?<br><img src='images/s504.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Atrophic scar",
           "Keloid",
@@ -8780,7 +8766,7 @@ const quizData = {
       // 520
       {
         question:
-          "Calculate the GCS of a patient exhibiting eye opening on pain, conscious but confused, and exhibits flexion on painful noxious stimuli to the arm:",
+          "CCalculate the GCS of a patient exhibiting eye opening on pain, conscious but confused and cannot tell time and exhibits flexion on painful noxious stimuli to the arm:",
         options: ["8", "9", "10", "11"],
         answer: 2,
       },
@@ -8838,7 +8824,8 @@ const quizData = {
       },
       // 526
       {
-        question: "Comment on the diagnosis?<br><img src='images/s526.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        question:
+          "Comment on the diagnosis?<br><img src='images/s526.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Sebaceous cyst",
           "Implantation dermoid",
@@ -8849,7 +8836,8 @@ const quizData = {
       },
       // 527
       {
-        question: "Comment on the diagnosis?<br><img src='images/s527.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        question:
+          "Comment on the diagnosis?<br><img src='images/s527.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Lipoma",
           "Encephalocele",
@@ -8888,7 +8876,8 @@ const quizData = {
       },
       // 532
       {
-        question: "Identify the lesion shown.<br><img src='images/s532.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        question:
+          "Identify the lesion shown.<br><img src='images/s532.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: ["Wet gangrene", "Dry gangrene", "Frost bite", "Ainhum"],
         answer: 0,
       },
@@ -8910,8 +8899,7 @@ const quizData = {
         options: ["3", "5", "6", "8"],
         answer: 0,
       },
-      
-      
+
       // 535
       {
         question:
@@ -9072,17 +9060,13 @@ const quizData = {
         answer: 0, // Correct answer: Septic shock
       },
     ],
-    "Set-12":[//ques-compleated, answer-matched
+    "Set-12": [
+      //ques-compleated, answer-matched
       {
         // 551
         question: "What is given immediately in hemorrhagic shock?",
-        options: [
-          "Packed RBC",
-          "Colloids",
-          "Crystalloids",
-          "Isotonic fluids"
-        ],
-        answer: 2 // Correct answer: Crystalloids
+        options: ["Packed RBC", "Colloids", "Crystalloids", "Isotonic fluids"],
+        answer: 2, // Correct answer: Crystalloids
       },
       {
         // 552
@@ -9091,31 +9075,27 @@ const quizData = {
           "Septic shock",
           "Vasovagal shock",
           "Neurogenic shock",
-          "Cardiogenic shock"
+          "Cardiogenic shock",
         ],
-        answer: 0 // Correct answer: Septic shock
+        answer: 0, // Correct answer: Septic shock
       },
       {
         // 553
         question: "Neurogenic shock is caused by:",
-        options: [
-          "Burns",
-          "Dehydration",
-          "Hemorrhage",
-          "Anesthesia"
-        ],
-        answer: 3 // Correct answer: Anesthesia
+        options: ["Burns", "Dehydration", "Hemorrhage", "Anesthesia"],
+        answer: 3, // Correct answer: Anesthesia
       },
       {
         // 554
-        question: "Which is the preferred fluid in a poly-traumatic patient with shock?",
+        question:
+          "Which is the preferred fluid in a poly-traumatic patient with shock?",
         options: [
           "Ringer lactate",
           "Normal saline",
           "Dextran",
-          "Dextrose-normal saline"
+          "Dextrose-normal saline",
         ],
-        answer: 1 // Correct answer: Ringer lactate
+        answer: 1, // Correct answer: Ringer lactate
       },
       {
         // 555
@@ -9124,97 +9104,68 @@ const quizData = {
           "Dextran",
           "Normal saline",
           "Dextrose-normal saline",
-          "Hartmann solution"
+          "Hartmann solution",
         ],
-        answer: 1 // Correct answer: Normal saline
+        answer: 1, // Correct answer: Normal saline
       },
       {
         // 556
-        question: "All are criteria for Systemic Inflammatory Response Syndrome (SIRS) in children EXCEPT:",
-        options: [
-          "Tachycardia",
-          "Hypotension",
-          "Fever",
-          "Leukocytosis"
-        ],
-        answer: 1 // Correct answer: Hypotension
+        question:
+          "All are criteria for Systemic Inflammatory Response Syndrome (SIRS) in children EXCEPT:",
+        options: ["Tachycardia", "Hypotension", "Fever", "Leukocytosis"],
+        answer: 1, // Correct answer: Hypotension
       },
       {
         // 557
-        question: "A newborn boy has lumbosacral meningomyelocele and is awaiting surgical repair. The sac is best protected with sterile gauze piece soaked with:",
+        question:
+          "A newborn boy has lumbosacral meningomyelocele and is awaiting surgical repair. The sac is best protected with sterile gauze piece soaked with:",
         options: [
           "Mercurochrome",
           "Tincture benzoin",
           "Methylene blue",
-          "Normal saline"
+          "Normal saline",
         ],
-        answer: 3 // Correct answer: Normal saline
+        answer: 3, // Correct answer: Normal saline
       },
       {
         // 558
         question: "In 1 mL of 0.9% normal saline, the content of Na is:",
-        options: [
-          "0.1 mEq",
-          "0.3 mEq",
-          "0.5 mEq",
-          "10 mEq"
-        ],
-        answer: 0 // Correct answer: 0.5 mEq
+        options: ["0.1 mEq", "0.3 mEq", "0.5 mEq", "10 mEq"],
+        answer: 0, // Correct answer: 0.5 mEq
       },
       {
         // 559
-        question: "In 1 mL of 3 percent saline, what is the quantity of sodium?",
-        options: [
-          "0.5 mEq",
-          "1 mEq",
-          "10 mEq",
-          "50 mEq"
-        ],
-        answer: 0 // Correct answer: 1 mEq
+        question:
+          "In 1 mL of 3 percent saline, what is the quantity of sodium?",
+        options: ["0.5 mEq", "1 mEq", "10 mEq", "50 mEq"],
+        answer: 0, // Correct answer: 1 mEq
       },
       {
         // 560
-        question: "In IV fluids, what percentage of total parenteral nutrition energy is supplied by glucose?",
-        options: [
-          "20%",
-          "30%",
-          "40%",
-          "50%"
-        ],
-        answer: 3 // Correct answer: 50%
+        question:
+          "In IV fluids, what percentage of energy is supplied by glucose when patient is on total parenteral nutrition?",
+        options: ["20", "30", "40", "50"],
+        answer: 3, // Correct answer: 50%
       },
       {
         // 561
-        question: "According to the 'rule of 9,' what is the percentage of burn for a hand?",
-        options: [
-          "1%",
-          "5%",
-          "9%",
-          "14%"
-        ],
-        answer: 0 // Correct answer: 9%
+        question:
+          "According to the 'rule of 9,' what is the percentage of burn for a hand?",
+        options: ["1%", "5%", "9%", "14%"],
+        answer: 0, // Correct answer: 9%
       },
       {
         // 562
-        question: "What is the body surface area involved in burns of the perineum?",
-        options: [
-          "1%",
-          "3%",
-          "5%",
-          "9%"
-        ],
-        answer: 0 // Correct answer: 1%
+        question:
+          "What is the body surface area involved in burns of the perineum?",
+        options: ["1%", "3%", "5%", "9%"],
+        answer: 0, // Correct answer: 1%
       },
       {
         // 563
         question: "What is the best solution for burns?",
-        options: [
-          "NS 0.9%",
-          "Ringer's lactate",
-          "25% dextrose",
-          "Colloid"
-        ],
-        answer: 1 // Correct answer: Ringer's lactate
+        options: ["NS 0.9%", "Ringer's lactate", "25% dextrose", "Colloid"],
+        answer: 1, // Correct answer: Ringer's lactate
       },
       {
         // 564
@@ -9223,20 +9174,15 @@ const quizData = {
           "Hypotonic solutions",
           "Albumin",
           "25% dextrose",
-          "Hartmann solution/ATLS"
+          "Hartmann solution/ATLS",
         ],
-        answer: 0 // Correct answer: Hypotonic solutions
+        answer: 0, // Correct answer: Hypotonic solutions
       },
       {
         // 565
         question: "What is the first fluid preferred in a burn patient?",
-        options: [
-          "Crystalloids",
-          "Colloids",
-          "Any of above",
-          "Both of above"
-        ],
-        answer: 0 // Correct answer: Crystalloids
+        options: ["Crystalloids", "Colloids", "Any of above", "Both of above"],
+        answer: 0, // Correct answer: Crystalloids
       },
       {
         // 566
@@ -9245,31 +9191,28 @@ const quizData = {
           "Hematemesis is an early complication",
           "For head and neck burn, exposure treatment is done",
           "Stridor can be present",
-          "Most common infection is by Pseudomonas"
+          "Most common infection is by Pseudomonas",
         ],
-        answer: 0 // Correct answer: Hematemesis is an early complication
+        answer: 0, // Correct answer: Hematemesis is an early complication
       },
       {
         // 567
-        question: "What is the cause of death in a 70% burns patient in whom enteral feeding is not given?",
+        question:
+          "What is the cause of death in a 70% burns patient in whom enteral feeding is not given?",
         options: [
           "Dehydration",
           "Malnutrition",
           "Electrolyte imbalance",
-          "Bacterial infection"
+          "Bacterial infection",
         ],
-        answer: 0 // Correct answer: Bacterial infection
+        answer: 0, // Correct answer: Bacterial infection
       },
       {
         // 568
-        question: "A burn patient is brought to emergency. Upon examination, he was found dead. What could be the possible cause?",
-        options: [
-          "Sepsis",
-          "Hypoxia",
-          "Malnutrition",
-          "Hypovolemia"
-        ],
-        answer: 3 // Correct answer: Hypoxia
+        question:
+          "A burn patient is brought to emergency. Upon examination, he was found dead. What could be the possible cause?",
+        options: ["Sepsis", "Hypoxia", "Malnutrition", "Hypovolemia"],
+        answer: 3, // Correct answer: Hypoxia
       },
       {
         // 569
@@ -9278,9 +9221,9 @@ const quizData = {
           "Above 5% of surface area must be involved to produce shock",
           "Inhaled hot gas will not cause supraglottic airway burn and laryngeal edema",
           "Early elective intubation is safest",
-          "If oral fluids are to be used, salt must be avoided"
+          "If oral fluids are to be used, salt must be avoided",
         ],
-        answer: 2 // Correct answer: Early elective intubation is safest
+        answer: 2, // Correct answer: Early elective intubation is safest
       },
       {
         // 570
@@ -9289,53 +9232,39 @@ const quizData = {
           "Erythema and painful",
           "Erythema and painless",
           "Painless and cherry red",
-          "Painful and cherry red"
+          "Painful and cherry red",
         ],
-        answer: 2 // Correct answer: Painless and cherry red
+        answer: 2, // Correct answer: Painless and cherry red
       },
       {
         // 571
         question: "Which virus causes infection in burn patients?",
-        options: [
-          "HSV",
-          "CMV",
-          "EBV",
-          "VZV"
-        ],
-        answer: 0 // Correct answer: HSV
+        options: ["HSV", "CMV", "EBV", "VZV"],
+        answer: 0, // Correct answer: HSV
       },
       {
         // 572
         question: "What is the cause of death in burns?",
-        options: [
-          "Sepsis",
-          "Shock",
-          "Dyselectrolytemia",
-          "ARDS"
-        ],
-        answer: 0 // Correct answer: Sepsis
+        options: ["Sepsis", "Shock", "Dyselectrolytemia", "ARDS"],
+        answer: 0, // Correct answer: Sepsis
       },
       {
         // 573
         question: "Burns present as all of the following EXCEPT:",
-        options: [
-          "Sepsis",
-          "Shock",
-          "Acute kidney injury",
-          "Air embolism"
-        ],
-        answer: 3 // Correct answer: Air embolism
+        options: ["Sepsis", "Shock", "Acute kidney injury", "Air embolism"],
+        answer: 3, // Correct answer: Air embolism
       },
       {
         // 574
-        question: "Middle area of face fracture (Le-Fort fracture) is characterized by all EXCEPT:",
+        question:
+          "Middle area of face fracture (Le-Fort fracture) is characterized by all EXCEPT:",
         options: [
           "Proptosis",
           "Lengthening of face",
           "Enophthalmos",
-          "Ecchymosis"
+          "Ecchymosis",
         ],
-        answer: 0 // Correct answer: Enophthalmos
+        answer: 0, // Correct answer: Enophthalmos
       },
       {
         // 575
@@ -9344,9 +9273,9 @@ const quizData = {
           "Pain",
           "Temperature",
           "Tactile discrimination",
-          "Proprioception"
+          "Proprioception",
         ],
-        answer: 3 // Correct answer: Proprioception
+        answer: 3, // Correct answer: Proprioception
       },
       {
         // 576
@@ -9355,9 +9284,9 @@ const quizData = {
           "Zygomatic arch",
           "Orbital floor",
           "Sphenoid bone",
-          "Palatine and maxillary bones"
+          "Palatine and maxillary bones",
         ],
-        answer: 1 // Correct answer: Orbital floor
+        answer: 1, // Correct answer: Orbital floor
       },
       {
         // 577
@@ -9366,9 +9295,9 @@ const quizData = {
           "Clostridium welchii",
           "Clostridium septicum",
           "Anaerobic Streptococcus",
-          "Bacillus subtilis"
+          "Bacillus subtilis",
         ],
-        answer: 2 // Correct answer: Anaerobic Streptococcus
+        answer: 2, // Correct answer: Anaerobic Streptococcus
       },
       {
         // 578
@@ -9377,20 +9306,16 @@ const quizData = {
           "Streptococcus viridans",
           "Streptococcus pyogenes",
           "Staphylococcus aureus",
-          "Microaerophilic streptococcus"
+          "Microaerophilic streptococcus",
         ],
-        answer: 3 // Correct answer: Microaerophilic streptococcus
+        answer: 3, // Correct answer: Microaerophilic streptococcus
       },
       {
         // 579
-        question: "All of the following are released/increased in surgical stress; EXCEPT:",
-        options: [
-          "ADH",
-          "Insulin",
-          "ACTH",
-          "Cortisol"
-        ],
-        answer: 1 // Correct answer: Insulin
+        question:
+          "All of the following are released/increased in surgical stress; EXCEPT:",
+        options: ["ADH", "Insulin", "ACTH", "Cortisol"],
+        answer: 1, // Correct answer: Insulin
       },
       {
         // 580
@@ -9399,31 +9324,23 @@ const quizData = {
           "May be familial",
           "Arises on sternum",
           "Subsides over time",
-          "Hyperkeratotic"
+          "Hyperkeratotic",
         ],
-        answer: 2 // Correct answer: Subsides over time
+        answer: 2, // Correct answer: Subsides over time
       },
       {
         // 581
-        question: "Which organ is most commonly affected by blunt trauma to the abdomen?",
-        options: [
-          "Spleen",
-          "Intestine",
-          "Liver",
-          "Mesentery"
-        ],
-        answer: 0 // Correct answer: Spleen
+        question:
+          "Which organ is most commonly affected by blunt trauma to the abdomen?",
+        options: ["Spleen", "Intestine", "Liver", "Mesentery"],
+        answer: 0, // Correct answer: Spleen
       },
       {
         // 582
-        question: "Wound dehiscence occurs after how many days following surgery?",
-        options: [
-          "2-4 days",
-          "Within 2 days",
-          "5-12 days",
-          ">2 weeks"
-        ],
-        answer: 2 // Correct answer: 5-12 days
+        question:
+          "Wound dehiscence occurs after how many days following surgery?",
+        options: ["2-4 days", "Within 2 days", "5-12 days", ">2 weeks"],
+        answer: 2, // Correct answer: 5-12 days
       },
       {
         // 583
@@ -9432,9 +9349,9 @@ const quizData = {
           "Is a skin graft including the epidermis and part of the dermis",
           "Is a skin graft including the epidermis and complete dermis",
           "Is a skin graft including part of the epidermis and part of the dermis",
-          "Is a skin graft including part of the epidermis and whole of the dermis"
+          "Is a skin graft including part of the epidermis and whole of the dermis",
         ],
-        answer: 0 // Correct answer: Is a skin graft including the epidermis and part of the dermis
+        answer: 0, // Correct answer: Is a skin graft including the epidermis and part of the dermis
       },
       {
         // 584
@@ -9443,9 +9360,9 @@ const quizData = {
           "Transplantation of organs from a 1st degree relative",
           "Transplantation of organs from unrelated donor",
           "Transplantation of tissues from self",
-          "Transplantation of living tissues/organs from one species to another"
+          "Transplantation of living tissues/organs from one species to another",
         ],
-        answer: 3 // Correct answer: Transplantation of living tissues/organs from one species to another
+        answer: 3, // Correct answer: Transplantation of living tissues/organs from one species to another
       },
       {
         // 585
@@ -9454,9 +9371,9 @@ const quizData = {
           "Marjolin's ulcers",
           "Buruli ulcer",
           "Venous ulcer",
-          "Peptic ulcer"
+          "Peptic ulcer",
         ],
-        answer: 1 // Correct answer: Peptic ulcer
+        answer: 1, // Correct answer: Peptic ulcer
       },
       {
         // 586
@@ -9465,20 +9382,15 @@ const quizData = {
           "Sarcoma",
           "Adenocarcinoma",
           "Dermoid tumor",
-          "Marjolin's ulcer"
+          "Marjolin's ulcer",
         ],
-        answer: 3 // Correct answer: Marjolin's ulcer
+        answer: 3, // Correct answer: Marjolin's ulcer
       },
       {
         // 587
         question: "Osteomyelitis first occurs in:",
-        options: [
-          "Metaphysis",
-          "Epiphysis",
-          "Diaphysis",
-          "All of these"
-        ],
-        answer: 0 // Correct answer: Metaphysis
+        options: ["Metaphysis", "Epiphysis", "Diaphysis", "All of these"],
+        answer: 0, // Correct answer: Metaphysis
       },
       {
         // 588
@@ -9487,20 +9399,16 @@ const quizData = {
           "Primary intention",
           "Secondary intention",
           "Tertiary intention",
-          "All of these"
+          "All of these",
         ],
-        answer: 0 // Correct answer: Primary intention
+        answer: 0, // Correct answer: Primary intention
       },
       {
         // 589
-        question: "Female patient with injury on her scalp, hair was shaved and sutures were put. On which day sutures should be removed?",
-        options: [
-          "8-10 days",
-          "2 weeks",
-          "3 weeks",
-          "1 month"
-        ],
-        answer: 0 // Correct answer: 8-10 days
+        question:
+          "Female patient with injury on her scalp, hair was shaved and sutures were put. On which day sutures should be removed?",
+        options: ["8-10 days", "2 weeks", "3 weeks", "1 month"],
+        answer: 0, // Correct answer: 8-10 days
       },
       {
         // 590
@@ -9509,42 +9417,40 @@ const quizData = {
           "Smaller incisions",
           "Minimal postoperative pain",
           "Trocar injury in patients with low body mass index",
-          "Recovery time is longer"
+          "Recovery time is longer",
         ],
-        answer: 3 // Correct answer: Recovery time is longer
+        answer: 3, // Correct answer: Recovery time is longer
       },
       {
         // 591
-        question: "A guy driving a car fast suddenly slams on the brakes. He was wearing a seat belt. The organ most likely to be affected is:",
-        options: [
-          "Liver",
-          "Spleen",
-          "Mesentery",
-          "Kidney"
-        ],
-        answer: 2 // Correct answer: Mesentery
+        question:
+          "A guy driving a car fast suddenly slams on the brakes. He was wearing a seat belt. The organ most likely to be affected is:",
+        options: ["Liver", "Spleen", "Mesentery", "Kidney"],
+        answer: 2, // Correct answer: Mesentery
       },
       {
         // 592
-        question: "A motorcyclist after multiple trauma is having hypoventilation. What is the cause?",
+        question:
+          "A motorcyclist after multiple trauma is having hypoventilation. What is the cause?",
         options: [
           "Damage to respiratory centre",
           "Damage to respiratory apparatus",
           "Both a and b",
-          "None of the above"
+          "None of the above",
         ],
-        answer: 0 // Correct answer: Both a and b
+        answer: 0, // Correct answer: Both a and b
       },
       {
         // 593
-        question: "What is the best investigation for a hemodynamically stable patient with blunt abdominal trauma?",
+        question:
+          "What is the best investigation for a hemodynamically stable patient with blunt abdominal trauma?",
         options: [
           "CECT abdomen",
           "MRI abdomen",
           "Diagnostic Peritoneal lavage",
-          "FAST"
+          "FAST",
         ],
-        answer: 0 // Correct answer: CECT abdomen
+        answer: 0, // Correct answer: CECT abdomen
       },
       {
         // 594
@@ -9553,20 +9459,16 @@ const quizData = {
           "Tetany",
           "Temporomandibular joint abscess",
           "Mandibular abscess",
-          "Odontogenic pulp abscess"
+          "Odontogenic pulp abscess",
         ],
-        answer: 0 // Correct answer: Tetany
+        answer: 0, // Correct answer: Tetany
       },
       {
         // 595
-        question: "What is the most common site of basal cell carcinoma in lips?",
-        options: [
-          "Upper lip",
-          "Central 1/3",
-          "Lower lip",
-          "Commissures"
-        ],
-        answer: 2 // Correct answer: Lower lip
+        question:
+          "What is the most common site of basal cell carcinoma in lips?",
+        options: ["Upper lip", "Central 1/3", "Lower lip", "Commissures"],
+        answer: 2, // Correct answer: Lower lip
       },
       {
         // 596
@@ -9575,31 +9477,33 @@ const quizData = {
           "Common peroneal nerve",
           "Obturator nerve",
           "Genitofemoral nerve",
-          "Posterior tibial nerve"
+          "Posterior tibial nerve",
         ],
-        answer: 0 // Correct answer: Common peroneal nerve
+        answer: 0, // Correct answer: Common peroneal nerve
       },
       {
         // 597
-        question: "What is the most common nosocomial infection acquired by a patient undergoing surgery?",
+        question:
+          "What is the most common nosocomial infection acquired by a patient undergoing surgery?",
         options: [
           "S.I.R.S",
           "Surgical site infection",
           "Pneumonia",
-          "Catheter-based infection"
+          "Catheter-based infection",
         ],
-        answer: 1 // Correct answer: Surgical site infection
+        answer: 1, // Correct answer: Surgical site infection
       },
       {
         // 598
-        question: "Upon aspiration in supine position, food particles go most commonly to?",
+        question:
+          "Upon aspiration in supine position, food particles go most commonly to?",
         options: [
           "Right lower lobe superior basal",
           "Right lower lobe postero basal",
           "Left lower lobe superior basal",
-          "Left lower lobe postero basal"
+          "Left lower lobe postero basal",
         ],
-        answer: 0 // Correct answer: Right lower lobe postero basal
+        answer: 0, // Correct answer: Right lower lobe postero basal
       },
       {
         // 599
@@ -9608,9 +9512,9 @@ const quizData = {
           "5FU + external beam radiation",
           "Mitomycin + external beam radiation",
           "External beam radiation",
-          "Surgery + Imiquimod"
+          "Surgery + Imiquimod",
         ],
-        answer: 3 // Correct answer: Mitomycin + external beam radiation
+        answer: 3, // Correct answer: Mitomycin + external beam radiation
       },
       {
         // 600
@@ -9619,196 +9523,194 @@ const quizData = {
           "Nature of tumor",
           "Number of tumors",
           "Number of lymph nodes involved",
-          "Metastasis"
+          "Metastasis",
         ],
-        answer: 2 // Correct answer: Number of lymph nodes involved
-      }
+        answer: 2, // Correct answer: Number of lymph nodes involved
+      },
     ],
-    "Set-13":[//question , answer -compleated
+    "Set-13": [
+      //question , answer -compleated
       {
         // 601
-        question: "A patient presented to emergency with complaints of headache. Patient described it as the worst headache of his life. CT image is given below. What is the diagnosis?<br><img src='images/s601.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        question:
+          "A patient presented to emergency with complaints of headache. Patient described it as the worst headache of his life. CT image is given below. What is the diagnosis?<br><img src='images/s601.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Extradural hemorrhage",
           "Subdural hemorrhage",
           "Migraine",
-          "Subarachnoid hemorrhage"
+          "Subarachnoid hemorrhage",
         ],
         answer: 3, // Correct answer: Subarachnoid hemorrhage
       },
       {
         // 602
-        question: "A 55-year old woman working in the office, suffered a head trauma after a road traffic accident. Which of the following is associated with lucid interval?",
+        question:
+          "A 55-year old woman working in the office, suffered a head trauma after a road traffic accident. Which of the following is associated with lucid interval?",
         options: [
           "Acute subdural hemorrhage",
           "Chronic subdural hemorrhage",
           "Subarachnoid hemorrhage",
-          "Extradural hemorrhage"
+          "Extradural hemorrhage",
         ],
         answer: 3, // Correct answer: Extradural hemorrhage
       },
       {
         // 603
-        question: "A 50-year-old man was brought to emergency after road traffic accident. He was diagnosed with cerebral edema. Which of the following drug should be used?",
-        options: [
-          "Steroids",
-          "Mannitol",
-          "Acetazolamide",
-          "Glycerol"
-        ],
+        question:
+          "A 50-year-old man was brought to emergency after road traffic accident. He was diagnosed with cerebral edema. Which of the following drug should be used?",
+        options: ["Steroids", "Mannitol", "Acetazolamide", "Glycerol"],
         answer: 1, // Correct answer: Mannitol
       },
       {
         // 604
-        question: "Battle sign is:<br><img src='images/s604.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        question:
+          "Battle sign is:<br><img src='images/s604.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Bruising on mastoid",
           "CSF rhinorrhea",
           "Periorbital ecchymosis",
-          "Acute mastoiditis"
+          "Acute mastoiditis",
         ],
         answer: 0, // Correct answer: Bruising on mastoid
       },
       {
         // 605
-        question: "A patient suffered from road traffic accident 6 hours before he was brought to the emergency with altered sensorium. His Glasgow coma score was 12. CT scan of head was done which is as shown below. He is most likely suffering from:<br><img src='images/s605.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        question:
+          "A patient suffered from road traffic accident 6 hours ago before he was brought to the emergency with altered sensorium. His Glasgow coma score was 12. CT scan of head was done which is as shown below. He is most likely suffering from:<br><img src='images/s605.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Subdural hematoma",
           "Extradural hematoma",
           "Subarachnoid hemorrhage",
-          "Infracerebral hematoma"
+          "Infracerebral hematoma",
         ],
         answer: 1, // Correct answer: Subdural hematoma
       },
       {
         // 606
-        question: "A 50-year-old patient presented with development of intractable seizures. CT Head shows intracranial space occupying lesion for which a CT guided biopsy was done. The histopathology reported presence of psammoma bodies. Which of the following is the most likely diagnosis of this patient?<br><img src='images/s606.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
-        options: [
-          "Astrocytoma",
-          "Ependymoma",
-          "Meningioma",
-          "Medulloblastoma"
-        ],
+        question:
+          "A 50-year-old patient presented with development of intractable seizures. CT Head shows intracranial space occupying lesion for which a CT guided biopsy was done. The histopathology reported presence of psammoma bodies. Which of the following is the most likely diagnosis of this patient?<br><img src='images/s606.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        options: ["Astrocytoma", "Ependymoma", "Meningioma", "Medulloblastoma"],
         answer: 2, // Correct answer: Meningioma
       },
       {
         // 607
-        question: "A 40-year-old man is brought to emergency with loss of consciousness following RTA. GCS is 8/15 and patient was having decerebrate rigidity. MRI head was performed and the image is given below. Which of the following is the diagnosis?<br><img src='images/s607.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        question:
+          "A 40-year-old man is brought to emergency with loss of consciousness following RTA. GCS is 8/15 and patient was having decerebrate rigidity. MRI head was performed and the image is given below. Which of the following is the diagnosis?<br><img src='images/s607.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Subarachnoid hemorrhage",
           "Subdural hemorrhage",
           "Cerebral amyloid angiopathy",
-          "Diffuse axonal injury"
+          "Diffuse axonal injury",
         ],
         answer: 3, // Correct answer: Diffuse axonal injury
       },
       {
         // 608
-        question: "What should be the best treatment in a patient who presented in the emergency with respiratory distress and was noticed having dilated neck veins? CXR is shown below:<br><img src='images/s608.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        question:
+          "What should be the best treatment in a patient who presented in the emergency with respiratory distress and was noticed having dilated neck veins? CXR is shown below:<br><img src='images/s608.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Endotracheal intubation",
           "Needle Thoracostomy",
           "Tracheostomy",
-          "Thoracocentesis"
+          "Thoracocentesis",
         ],
         answer: 1, // Correct answer: Needle Thoracostomy
       },
       {
         // 609
-        question: "Patient has undergone surgical procedure for a lung pathology where his pre-operative and post-operative chest-X-rays are shown below. What can be the likely diagnosis in this patient?<br><img src='images/s609.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        question:
+          "Patient has undergone surgical procedure for a lung pathology where his pre-operative and post-operative chest-X-rays are shown below. What can be the likely diagnosis in this patient?<br><img src='images/s609.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Right pneumothorax",
           "Left pneumothorax",
           "Right Empyema",
-          "Left empyema"
+          "Left empyema",
         ],
         answer: 2, // Correct answer: Left pneumothorax
       },
       {
         // 610
-        question: "Best results in Coronary artery bypass grafting are obtained by:",
+        question:
+          "Best results in Coronary artery bypass grafting are obtained by:",
         options: [
           "Long saphenous vein",
           "Internal mammary artery",
           "Poly tetra fluoro ethylene",
-          "Gastroepiploic artery"
+          "Gastroepiploic artery",
         ],
         answer: 1, // Correct answer: Internal mammary artery
       },
       {
         // 611
-        question: "An elderly male is undergoing renal transplantation. He received the graft from the twin brother. This graft is known as:",
-        options: [
-          "Autograft",
-          "Isograft",
-          "Allograft",
-          "Xenograft"
-        ],
+        question:
+          "An elderly male is undergoing renal transplantation. He received the graft from the twin brother. This graft is known as:",
+        options: ["Autograft", "Isograft", "Allograft", "Xenograft"],
         answer: 1, // Correct answer: Isograft
       },
       {
         // 612
-        question: "What is the name of the given instrument?<br><img src='images/s612.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        question:
+          "What is the name of the given instrument?<br><img src='images/s612.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Ovum forceps",
           "Allis tissue forceps",
           "Sponge holding forceps",
-          "Babcock's forceps"
+          "Babcock's forceps",
         ],
         answer: 3, // Correct answer: Sponge holding forceps
       },
       {
         // 613
-        question: "Identify the condition shown in the image which has been progressively increasing for the last 6 months.<br><img src='images/s613.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        question:
+          "Identify the condition shown in the image which has been progressively increasing for the last 6 months.<br><img src='images/s613.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Basal cell carcinoma",
           "Squamous cell carcinoma",
           "Malignant melanoma",
-          "Nevus"
+          "Nevus",
         ],
         answer: 2, // Correct answer: Basal cell carcinoma
       },
       {
         // 614
-        question: "Cutaneous horn as shown in the image is associated with which of the following skin cancer?<br><img src='images/s614.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        question:
+          "Cutaneous horn as shown in the image is associated with which of the following skin cancer?<br><img src='images/s614.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Basal cell carcinoma",
           "Squamous cell carcinoma",
           "Malignant melanoma",
-          "Actinic keratosis"
+          "Actinic keratosis",
         ],
         answer: 1, // Correct answer: Squamous cell carcinoma
       },
       {
         // 615
-        question: "Comment on the diagnosis from the image shown below of a patient from rural India?<br><img src='images/s615.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        question:
+          "Comment on the diagnosis from the image shown below of a patient from rural India?<br><img src='images/s615.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Cervical lymphadenopathy with occult primary",
           "Castleman disease",
           "Sepfuloderma",
-          "Reactive lymphadenopathy"
+          "Reactive lymphadenopathy",
         ],
         answer: 2, // Correct answer: Cervical lymphadenopathy with occult primary
       },
       {
         // 616
-        question: "Which of the following organisms is responsible for causing this lesion shown on the face of the patient?<br><img src='images/s616.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
-        options: [
-          "Streptococcus",
-          "Staphylococcus",
-          "Bacteroides",
-          "Fungus"
-        ],
+        question:
+          "Which of the following organisms is responsible for causing this lesion shown on the face of the patient?<br><img src='images/s616.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        options: ["Streptococcus", "Staphylococcus", "Bacteroides", "Fungus"],
         answer: 0, // Correct answer: Staphylococcus
       },
       {
         // 617
-        question: "A lady with 50% TBSA burn with involvement of dermis and subcutaneous tissue came to the emergency department. Burns will be classified as:",
+        question:
+          "A lady with 50% TBSA burn with involvement of dermis and subcutaneous tissue came to the emergency department. Burns will be classified as:",
         options: [
           "1st degree",
           "2nd degree superficial",
           "2nd degree deep",
-          "3rd degree burn"
+          "3rd degree burn",
         ],
         answer: 3, // Correct answer: 2nd degree deep
       },
@@ -9819,7 +9721,7 @@ const quizData = {
           "Squamous cell carcinoma",
           "Rhinophyma",
           "Basal cell cancer",
-          "Adenocarcinoma"
+          "Adenocarcinoma",
         ],
         answer: 2, // Correct answer: Basal cell cancer
       },
@@ -9830,40 +9732,43 @@ const quizData = {
           "Squamous cell carcinoma",
           "Adenocarcinoma",
           "Transition cell carcinoma",
-          "Mucoepidermoid"
+          "Mucoepidermoid",
         ],
         answer: 0, // Correct answer: Squamous cell carcinoma
       },
       {
         // 620
-        question: "Identify the condition shown in the image:<br><img src='images/s620.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        question:
+          "Identify the condition shown in the image:<br><img src='images/s620.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Port wine stain",
           "Strawberry nevus",
           "Erythema multiforme",
-          "Exanthem Nodosum"
+          "Exanthem Nodosum",
         ],
         answer: 0, // Correct answer: Port wine stain
       },
       {
         // 621
-        question: "Which instrument is shown below?<br><img src='images/s621.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        question:
+          "Which instrument is shown below?<br><img src='images/s621.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Artery forceps",
           "Kocher forceps",
           "Allis forceps",
-          "Babcock forceps"
+          "Babcock forceps",
         ],
         answer: 0, // Correct answer: Kocher forceps
       },
       {
         // 622
-        question: "Which instrument is shown below?<br><img src='images/s622.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        question:
+          "Which instrument is shown below?<br><img src='images/s622.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Tongue depressor",
           "Doyen retractor",
           "Self-retaining retractor",
-          "Langenbeck's retractor"
+          "Langenbeck's retractor",
         ],
         answer: 0, // Correct answer: Self-retaining retractor
       },
@@ -9874,41 +9779,38 @@ const quizData = {
           "Size of tumor",
           "Nodal metastasis",
           "Distant metastasis",
-          "Depth of invasion"
+          "Depth of invasion",
         ],
         answer: 0, // Correct answer: Size of tumor
       },
       {
         // 624
-        question: "A 65-year-old patient presents with low backache and low-grade fever. X-ray spine shows:<br><img src='images/s624.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
+        question:
+          "A 65-year-old patient presents with low backache and low-grade fever. X-ray spine shows:<br><img src='images/s624.png' alt='Vertebral Level Image' width='98%' style='max-height: 350px;'/>",
         options: [
           "Osteomyelitis",
           "Osteomalacia",
           "Hypoparathyroidism",
-          "Metastasis"
+          "Metastasis",
         ],
         answer: 3, // Correct answer: Osteomyelitis
       },
       {
         // 625
-        question: "What is correct regarding descent of testes during fetal stage?",
+        question:
+          "What is correct regarding descent of testes during fetal stage?",
         options: [
           "Gestational age 1-7 months in abdomen",
           "Gestational age 1-7 months in inguinal canal",
           "Gestational age 7-9 months in scrotum",
-          "Gestational age lies in 7-9 months in abdomen"
+          "Gestational age lies in 7-9 months in abdomen",
         ],
         answer: 0, // Correct answer: Gestational age 7-9 months in scrotum
       },
       {
         // 626
         question: "Which is not a derivative of midgut?",
-        options: [
-          "Appendix",
-          "Jejunum",
-          "Ascending colon",
-          "Descending colon"
-        ],
+        options: ["Appendix", "Jejunum", "Ascending colon", "Descending colon"],
         answer: 3, // Correct answer: Descending colon
       },
       {
@@ -9918,18 +9820,19 @@ const quizData = {
           "Sterile pus",
           "Amoebae reach the right lobe > left lobe",
           "Intercostal tenderness",
-          "Hepatocellular jaundice"
+          "Hepatocellular jaundice",
         ],
         answer: 3, // Correct answer: Hepatocellular jaundice
       },
       {
         // 628
-        question: "A 30-year-old patient presents with pain in right hypochondrium for 5 days with soft and tender liver and intercostal tenderness. He complains of catch in breath on inspiration and has a non-productive cough. On examination, the lung fields are clear, patient looks pale and emaciated. What is the probable diagnosis?",
+        question:
+          "A 30-year-old patient presents with pain in right hypochondrium for 5 days with soft and tender liver and intercostal tenderness. He complains of catch in breath on inspiration and has a non-productive cough. On examination, the lung fields are clear, patient looks pale and emaciated. What is the probable diagnosis?",
         options: [
           "Amoebic liver abscess",
           "Pyogenic liver abscess",
           "Hydatid cyst",
-          "Hepatic adenoma"
+          "Hepatic adenoma",
         ],
         answer: 0, // Correct answer: Amoebic liver abscess
       },
@@ -9940,7 +9843,7 @@ const quizData = {
           "Cholesterolosis",
           "Porcelain Gall bladder",
           "Mirizzi syndrome",
-          "Wegener's granulomatosis"
+          "Wegener's granulomatosis",
         ],
         answer: 0, // Correct answer: Cholesterolosis
       },
@@ -9951,7 +9854,7 @@ const quizData = {
           "Gall stones",
           "Diverticulitis",
           "Hiatus hernia",
-          "Cholesterosis"
+          "Cholesterosis",
         ],
         answer: 3, // Correct answer: Cholesterosis
       },
@@ -9962,7 +9865,7 @@ const quizData = {
           "Volvulus",
           "Intussusception",
           "Intestinal obstruction",
-          "Gastric antral vascular ectasia"
+          "Gastric antral vascular ectasia",
         ],
         answer: 0, // Correct answer: Volvulus
       },
@@ -9973,7 +9876,7 @@ const quizData = {
           "Achalasia cardia",
           "Sigmoid volvulus",
           "Carcinoma esophagus",
-          "Carcinoma sigmoid colon"
+          "Carcinoma sigmoid colon",
         ],
         answer: 1, // Correct answer: Sigmoid volvulus
       },
@@ -9984,51 +9887,43 @@ const quizData = {
           "Adhesions",
           "Obstructed hernia",
           "Stricture",
-          "Hirschsprung's disease"
+          "Hirschsprung's disease",
         ],
         answer: 3, // Correct answer: Hirschsprung's disease
       },
       {
         // 634
         question: "What is the most common site of GIST?",
-        options: [
-          "Stomach",
-          "Liver",
-          "Kidney",
-          "Brain"
-        ],
+        options: ["Stomach", "Liver", "Kidney", "Brain"],
         answer: 0, // Correct answer: Stomach
       },
       {
         // 635
         question: "What is the most common site of lymphoma of GIST?",
-        options: [
-          "Stomach",
-          "Duodenum",
-          "Ileum",
-          "Colon"
-        ],
+        options: ["Stomach", "Duodenum", "Ileum", "Colon"],
         answer: 0, // Correct answer: Stomach
       },
       {
         // 636
-        question: "The most common cause of intestinal obstruction in infants is:",
+        question:
+          "The most common cause of intestinal obstruction in infants is:",
         options: [
           "Intussusception",
           "Congenital bands",
           "Necrotising enterocolitis",
-          "Sigmoid volvulus"
+          "Sigmoid volvulus",
         ],
         answer: 0, // Correct answer: Intussusception
       },
       {
         // 637
-        question: "The vessel which needs to be ligated in a patient with a bleeding peptic duodenal ulcer is:",
+        question:
+          "The vessel which needs to be ligated in a patient with a bleeding peptic duodenal ulcer is:",
         options: [
           "Left gastroepiploic artery",
           "Gastroduodenal artery",
           "Left gastric artery",
-          "Superior Pancreatico-duodenal artery"
+          "Superior Pancreatico-duodenal artery",
         ],
         answer: 1, // Correct answer: Gastroduodenal artery
       },
@@ -10039,7 +9934,7 @@ const quizData = {
           "It cannot reliably exclude injury in penetrating trauma",
           "It detects free fluid in the abdomen or pericardium",
           "It is accurate in detecting <50 ml of free blood",
-          "It is focused abdominal sonar for trauma"
+          "It is focused abdominal sonar for trauma",
         ],
         answer: 2, // Correct answer: It is accurate in detecting <50 ml of free blood
       },
@@ -10050,7 +9945,7 @@ const quizData = {
           "Thin split thickness graft",
           "Medium thickness split thickness skin graft",
           "Full thickness skin graft",
-          "Thick split thickness skin graft"
+          "Thick split thickness skin graft",
         ],
         answer: 1, // Correct answer: Medium thickness split thickness skin graft
       },
@@ -10061,18 +9956,19 @@ const quizData = {
           "Bleeding Esophageal Varices",
           "Mesenteric Ischemia",
           "Injury to Tail of Pancreas",
-          "Liver Laceration"
+          "Liver Laceration",
         ],
         answer: 3, // Correct answer: Liver Laceration
       },
       {
         // 641
-        question: "Optional timing of administration of prophylactic antibiotic for surgical patients is:",
+        question:
+          "Optional timing of administration of prophylactic antibiotic for surgical patients is:",
         options: [
           "One hour prior to induction of anaesthesia",
           "At the induction of anaesthesia",
           "Any time during the surgical procedure",
-          "One hour after induction"
+          "One hour after induction",
         ],
         answer: 1, // Correct answer: One hour prior to induction of anaesthesia
       },
@@ -10083,30 +9979,27 @@ const quizData = {
           "Polyester polymer",
           "Polyamide polymer",
           "Polyethylene terephthalate",
-          "Polybutylene terephthalate"
+          "Polybutylene terephthalate",
         ],
         answer: 1, // Correct answer: Polyamide polymer
       },
       {
         // 643
-        question: "All the following statements are true regarding torsion of testis; EXCEPT",
+        question:
+          "All the following statements are true regarding torsion of testis; EXCEPT",
         options: [
           "Anatomical abnormality is unilateral and contralateral testis should not be fixed",
           "Prompt exploration and twisting & fixation is the only way to save the torted testis",
           "Most common between 10 & 25 years of age",
-          "Inversion of testis is the most common predisposing cause"
+          "Inversion of testis is the most common predisposing cause",
         ],
         answer: 0, // Correct answer: Inversion of testis is the most common predisposing cause
       },
       {
         // 644
-        question: "'Fifth vital sign' commonly elicited by anaesthesiologists on surgical patients is:",
-        options: [
-          "FiO2",
-          "Pain",
-          "Core temperature",
-          "Blood pressure"
-        ],
+        question:
+          "'Fifth vital sign' commonly elicited by anaesthesiologists on surgical patients is:",
+        options: ["FiO2", "Pain", "Core temperature", "Blood pressure"],
         answer: 1, // Correct answer: Pain
       },
       {
@@ -10116,7 +10009,7 @@ const quizData = {
           "Adenocarcinoma",
           "Melanoma",
           "Sarcoma",
-          "Squamous cell carcinoma"
+          "Squamous cell carcinoma",
         ],
         answer: 3, // Correct answer: Squamous cell carcinoma
       },
@@ -10127,7 +10020,7 @@ const quizData = {
           "Squamous metaplasia",
           "Intestinal metaplasia",
           "Squamous dysplasia",
-          "Intestinal dysplasia"
+          "Intestinal dysplasia",
         ],
         answer: 1, // Correct answer: Intestinal metaplasia
       },
@@ -10138,18 +10031,19 @@ const quizData = {
           "Drug induced esophagus perforation",
           "Corrosive injury",
           "Spontaneous perforation",
-          "Gastroesophageal reflux disease"
+          "Gastroesophageal reflux disease",
         ],
         answer: 2, // Correct answer: Spontaneous perforation
       },
       {
         // 648
-        question: "Which one of the following is not a treatment of Gastroesophageal Variceal hemorrhage?",
+        question:
+          "Which one of the following is not a treatment of Gastroesophageal Variceal hemorrhage?",
         options: [
           "Sclerotherapy",
           "Sengstaken tube",
           "Trans-jugular intrahepatic Porta-caval shunt",
-          "Gastric freezing"
+          "Gastric freezing",
         ],
         answer: 3, // Correct answer: Gastric freezing
       },
@@ -10160,11 +10054,10 @@ const quizData = {
           "Present in the CBD",
           "Thin and clear",
           "Like toothpaste emulsion in the gallbladder",
-          "Bacteria rich"
+          "Bacteria rich",
         ],
         answer: 2, // Correct answer: Like toothpaste emulsion in the gallbladder
-      }
-            
+      },
     ],
   },
 };
